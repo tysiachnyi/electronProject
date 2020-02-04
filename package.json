@@ -1,0 +1,23 @@
+{
+  "name": "electronproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tysiachnyi/electronProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tysiachnyi/electronProject/issues"
+  },
+  "homepage": "https://github.com/Tysiachnyi/electronProject#readme"
+}
